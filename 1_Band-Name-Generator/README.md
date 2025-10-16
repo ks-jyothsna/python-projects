@@ -11,5 +11,5 @@
 
 # Lessons learnt
 
-String Manupilation
-String concatination
+- String Manupilation
+- String concatination
