@@ -3,6 +3,6 @@ Welcome to my Python learning journey! This repository contains hands-on project
 | Day | Project Name | Topics Covered |
 |-----|---------------|----------------|
 | 01 | Band Name Generator | Printing, Inputting, Commenting, Debugging, String Manupilation, Name errors, Syntax Errors, Variables |
-| 02 | Calculator | Functions, Input/Output |
-| 03 | Password Generator | Loops, Random module |
-| 04 | Weather App | API requests, JSON |
+| 02 | Tip Calculator | Functions, Input/Output |
+| 03 |  | Loops, Random module |
+| 04 |  | API requests, JSON |
