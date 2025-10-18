@@ -2,7 +2,7 @@
 
 > Simple project to calculate total amount to pay incluing the tip(in percentage) and split the bill among the people.
 
-## What the project is about
+## 🧠 What the project is about
 
 1. Create a greeting for your program.
 2. Ask the user what's the total bill.
