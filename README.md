@@ -4,5 +4,5 @@ Welcome to my Python learning journey! This repository contains hands-on project
 |-----|---------------|----------------|
 | 01 | Band Name Generator | Printing, Inputting, Commenting, Debugging, String Manupilation, Name errors, Syntax Errors, Variables |
 | 02 | Tip Calculator | Data types, Numbers, Operations PEMDASLR / BODMAS, Type conversions, f-strings, formatting |
-| 03 |  | Loops, Random module |
+| 03 | Treasure Island  | Conditional Statements, Logical Operators, Code Blocks, Scope |
 | 04 |  | API requests, JSON |
