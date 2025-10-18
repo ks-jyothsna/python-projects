@@ -1,4 +1,4 @@
-# Tip- Calculator
+# 💸 Tip Calculator
 
 > Simple project to calculate total amount to pay incluing the tip(in percentage) and split the bill among the people.
 
