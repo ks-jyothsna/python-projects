@@ -11,5 +11,6 @@
 
 # Lessons learnt
 
-- String Manupilation
+- using print and input function
+- Variables, rules of naming the variables
 - String concatination
