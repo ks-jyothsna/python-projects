@@ -3,6 +3,6 @@ Welcome to my Python learning journey! This repository contains hands-on project
 | Day | Project Name | Topics Covered |
 |-----|---------------|----------------|
 | 01 | Band Name Generator | Printing, Inputting, Commenting, Debugging, String Manupilation, Name errors, Syntax Errors, Variables |
-| 02 | Tip Calculator | Functions, Input/Output |
+| 02 | Tip Calculator | Data types, Numbers, Operations, Type conversions, f-strings, formatting |
 | 03 |  | Loops, Random module |
 | 04 |  | API requests, JSON |
