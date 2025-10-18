@@ -4,12 +4,6 @@
 
 ## 🧠 What the project is about
 
-1. Create a greeting for your program.
-2. Ask the user what's the total bill.
-3. Ask the user how much tip to be given.
-4. Ask the user how many people to split the bill.
-5. Do the math as below and show them how much each person should pay.
-
 Math behind it: 
 
 If the bill was $150.00, split between 5 people, with 12% tip.
