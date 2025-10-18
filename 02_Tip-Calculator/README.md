@@ -12,4 +12,4 @@ Each person should pay:
 After formatting the result to 2 decimal places = 33.60
 
 ## Functions used
-1. round - The round() function in Python is a built-in function used to round numbers.
+round - The round() function in Python is a built-in function used to round numbers.
