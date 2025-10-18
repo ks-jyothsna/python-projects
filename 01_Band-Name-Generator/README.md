@@ -1,8 +1,8 @@
-# Band Name Generator
+# 🎸 Band Name Generator
 
 > Its a simple project to learn the basics of variables handling.
 
-## What the project is about
+## 🧠 What the project is about
 
 1. Create a greeting for your program.
 2. Ask the user for the city that they grew up in and store it in a variable.
