@@ -14,4 +14,4 @@
 - using print and input function
 - new line character "\n"
 - Variables, rules of naming the variables
-- String concatination
+- String concatenation
