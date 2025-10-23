@@ -1,4 +1,4 @@
-# 🪎 Treasure Island
+# 🪙 Treasure Island
 
 > Simple choose your own adventure game where you go on a treasure hunt by making choices in each stage until you succeed or fail to find the treasure.
 
