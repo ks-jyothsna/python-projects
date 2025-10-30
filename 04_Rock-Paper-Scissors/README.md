@@ -1,4 +1,4 @@
-# 👊✌️✋ Rock Paper Scissors 
+# 👊🫱✌️ Rock Paper Scissors 
 
 > Rock paper Scissors project is a game to play with computer to check who wins.
 
