@@ -6,3 +6,4 @@ Welcome to my Python learning journey! This repository contains hands-on project
 | 02 | Tip Calculator | Data types, Numbers, Operations PEMDASLR / BODMAS, Type conversions, f-strings, formatting |
 | 03 | Treasure Island  | Conditional Statements, Logical Operators, Code Blocks, Scope |
 | 04 | Rock Paper Scissors | Randomisation, Python Lists|
+| 05 | Random password henerator | For loops, Range, Code blocks|
