@@ -27,10 +27,12 @@ Reeborg must **find the correct path automatically** — without pre-programmed 
 | **Hurdle 4** | `Hurdles 4` | Randomly placed hurdles with variable heights; must dynamically climb and descend. |
 | **Esccap the maze** | `Maze` | Guide Reeborg through a complex maze to reach the goal. |
 
-### 💡 Key Idea to solve the **maze challenge**
+## 💡 Key Idea to solve the **maze challenge**
+
 The **right-hand rule** is a classic maze-solving algorithm.  
 It works by imagining that Reeborg keeps **one hand (the right one)** on the wall at all times.  
 By following the wall, Reeborg will eventually find the exit, as long as the maze is connected (no isolated walls).
+
 ---
 
 ## ⚙️ How to Run the Code
