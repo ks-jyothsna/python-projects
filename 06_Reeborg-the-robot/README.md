@@ -36,6 +36,6 @@ The secret is to have Reeborg follow along the right edge of the maze, turning r
 1. Go to [Reeborg’s World](https://reeborg.ca/reeborg.html).
 2. Click the **World** dropdown (top-right corner).
 3. Choose one of: `Hurdles 1`, `Hurdles 2`, `Hurdles 3`, `Hurdles 4`, or `Maze`
-4. Open the **Editor** tab and paste the combined code below.
+4. Open the **Editor** tab and paste the code from the files attached.
 5. Click **Run** ▶️ to start the program.
 
