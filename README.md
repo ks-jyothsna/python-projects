@@ -7,4 +7,5 @@ Welcome to my Python learning journey! This repository contains hands-on project
 | 03 | Treasure Island  | Conditional Statements, Logical Operators, Code Blocks, Scope |
 | 04 | Rock Paper Scissors | Randomisation, Python Lists|
 | 05 | Password generator | For loops, Range, Code blocks|
-| 06 | Reeborg's Maze | Code blocks, indentations, Functions, While loop|
+| 06 | Reeborg's World | Code blocks, indentations, Functions, While loop|
+| 07 | Hangman | Revision of everything, Modules|
