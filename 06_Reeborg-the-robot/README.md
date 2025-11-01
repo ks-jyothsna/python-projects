@@ -1,11 +1,11 @@
-# 🤖 Reeborg’s World – Hurdles 1 to 4
+# 🤖 Reeborg’s World
 
 ## 🧭 Overview
 This project contains Python solutions for the **Reeborg’s World Hurdles Challenges 1 to 4** and **Maze Challenge** 
 Reeborg is a robot that must navigate a path with obstacles (hurdles) to reach a goal.  
 Each challenge introduces new logic to handle increasing difficulty.
 
-The final **Escape the maze** guides Reeborg through a **maze** full of twists and turns to reach the goal flag 🏁.  
+The final **Escape the maze** guides Reeborg through a **maze** full of twists and turns to reach the goal flag/exit 🏁.  
 Reeborg must **find the correct path automatically** — without pre-programmed directions — by using logic to decide when to move, turn, or change direction.
 
 ---
@@ -22,10 +22,10 @@ Reeborg must **find the correct path automatically** — without pre-programmed 
 | Challenge | World Name | Description |
 |------------|-------------|-------------|
 | **Hurdle 1** | `Hurdles 1` | Fixed number of hurdles; simple repetition. |
-| **Hurdle 2** | `Hurdles 2` | Unknown number of hurdles; must use a condition to continue until the goal. |
-| **Hurdle 3** | `Hurdles 3` | Unknown distance to the goal; must adapt to world length. |
+| **Hurdle 2** | `Hurdles 2` | Unknown distance to the goal; must adapt to world length. |
+| **Hurdle 3** | `Hurdles 3` | The position and number of hurdles changes each time this world is reloaded.|
 | **Hurdle 4** | `Hurdles 4` | Randomly placed hurdles with variable heights; must dynamically climb and descend. |
-| **Esccap the maze** | `Maze` | Guide Reeborg through a complex maze to reach the goal. |
+| **Escape the maze** | `Maze` | Guide Reeborg through a complex maze to reach the goal. |
 
 ## 💡 Key Idea to solve the **maze challenge**
 
