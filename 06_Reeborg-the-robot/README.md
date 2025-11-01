@@ -7,7 +7,7 @@ Each challenge introduces new logic to handle increasing difficulty.
 The final **Escape the maze** guides Reeborg through a **maze** full of twists and turns to reach the goal flag/exit 🏁.  
 Reeborg must **find the correct path automatically** — without pre-programmed directions — by using logic to decide when to move, turn, or change direction.
 
---
+---
 
 ## 🌍 About Reeborg’s World
 **Reeborg’s World** is an online Python-based learning environment designed to teach programming logic through interactive challenges.
