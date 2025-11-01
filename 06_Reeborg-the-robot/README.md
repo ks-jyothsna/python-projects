@@ -27,9 +27,8 @@ Reeborg must **find the correct path automatically** — without pre-programmed 
 
 ## 💡 Key Idea to solve the **maze challenge**
 
-The **right-hand rule** is a classic maze-solving algorithm.  
-It works by imagining that Reeborg keeps **one hand (the right one)** on the wall at all times.  
-By following the wall, Reeborg will eventually find the exit, as long as the maze is connected (no isolated walls).
+The **follow along the right edge of the wall** is a classic maze-solving algorithm.  
+The secret is to have Reeborg follow along the right edge of the maze, turning right if it can, going straight ahead if it can’t turn right, or turning left as a last resort.
 
 
 ## ⚙️ How to Run the Code
