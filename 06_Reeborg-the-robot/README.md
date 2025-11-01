@@ -22,7 +22,7 @@ Reeborg must **find the correct path automatically** — without pre-programmed 
 | **Hurdle 2** | `Hurdles 2` | Unknown distance to the goal; must adapt to world length. |
 | **Hurdle 3** | `Hurdles 3` | The position and number of hurdles changes each time this world is reloaded.|
 | **Hurdle 4** | `Hurdles 4` | Randomly placed hurdles with variable heights; must dynamically climb and descend. |
-| **Escape the maze** | `Maze` | Guide Reeborg through a complex maze to reach the goal. |
+| **Escape the maze** | `Maze` | Guide the randomly placed Reeborg through a complex maze to reach the goal. |
 
 
 ## 💡 Key Idea to solve the **maze challenge**
