@@ -11,7 +11,7 @@ Reeborg must **find the correct path automatically** — without pre-programmed 
 ## 🌍 About Reeborg’s World
 **Reeborg’s World** is an online Python-based learning environment designed to teach programming logic through interactive challenges.
 
-🔗 **Website:** [https://reeborg.ca/reeborg.html](https://reeborg.ca/reeborg.html)
+🔗 **Website:** [Reeborg’s World](https://reeborg.ca/reeborg.html)
 
 
 ## 🧱 Challenge Descriptions
