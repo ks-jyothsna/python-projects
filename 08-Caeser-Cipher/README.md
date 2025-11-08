@@ -20,6 +20,11 @@ Though easily broken by modern standards, it’s a classic example of substituti
 - The user can act as receiver to type the same encoded message with the same shift value to verify the message
 - The user can choose to continue or exit.
   
+
+## Additional files/modules to be considered
+- art.py
+
 ## 🛠️ Tools used
 [Ascii art](https://ascii.co.uk/text) is used to generate the caeser cipher logo. I have used the default font to generate the ascii art.
+
 
