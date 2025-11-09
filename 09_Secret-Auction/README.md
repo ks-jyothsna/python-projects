@@ -16,5 +16,5 @@
 ---
 
 ## Additional files/modules to be considered
-- art.py for the auction hammer
+- art.py for the auction gavel.
 
