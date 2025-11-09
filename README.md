@@ -10,3 +10,4 @@ Welcome to my Python learning journey! This repository contains hands-on project
 | 06 | Reeborg's World | Code blocks, indentations, Functions, While loop|
 | 07 | Hangman | Revision of everything,loops, Modules|
 | 08 | Caeser Cipher | Functions with inputs, Arguments and Parameters|
+| 09 | Secret Auction | Dictionaries, Nesting|
