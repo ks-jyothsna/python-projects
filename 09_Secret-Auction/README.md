@@ -1,26 +1,20 @@
-# 웃 Hangman
+# 🪒 Secret Auction
 
->> Players try to guess the hidden word, one letter at a time, before running out of chances!
-
----
+>> A simple Python console project that simulates a **secret auction** where multiple participants can place bids. At the end, the program determines and displays the highest bidder along with their bid amount.
 
 ## 🧩 Features/Logic
 
-- Random word selection from a word list  
-- Displays progress as underscores for unguessed letters  
-- Tracks letters guessed so far  
-- Counts remaining lives along with hangman art.
-- Player wins if the word is guessed before lives are over or else looses.
-- Logic flowchart attached.
-- Ascii art used to make the hangman picture and hangman logo.
-
----
-
-## Modules used
-- random module - to choose a word randomly
+- Each participant enters their **name** and **bid amount**.
+- After each bid, the program asks if there are other participants:
+- If **yes**, the screen is cleared (by printing multiple blank lines) and the next bidder can enter their details.
+- If **no**, the auction ends and the winner is determined.
+- All bids are stored in a **dictionary** with names as keys and bids as values.
+- The program then calculates and displays:
+  - The **highest bid**
+  - The **name of the winning bidder**
 
 ---
 
 ## Additional files/modules to be considered
-- hangman_art.py
-- hangman_words.py
+- art.py for the auction hammer
+
