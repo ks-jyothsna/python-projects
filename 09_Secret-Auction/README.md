@@ -1,6 +1,6 @@
 # 🪒 Secret Auction
 
->> A simple Python console project that simulates a **secret auction** where multiple participants can place bids. At the end, the program determines and displays the highest bidder along with their bid amount.
+> A simple Python console project that simulates a **secret auction** where multiple participants can place bids. At the end, the program determines and displays the highest bidder along with their bid amount.
 
 ## 🧩 Features/Logic
 
