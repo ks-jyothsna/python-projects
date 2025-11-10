@@ -74,15 +74,17 @@ After configuring everything:
 
 ---
 
-## 🧰 Example Command (Without GUI)
+## 📦 Result
+
+After following the steps, you’ll have a **standalone executable application** that works on any Windows computer — no Python installation needed!
+
+---
+
+## Alternate method
+
+You create an executable .exe file directly using PyInstaller from the command line, without opening the auto-py-to-exe graphical interface
 
 You can also build directly from the command line using **PyInstaller**:  
 ```bash
 pyinstaller --onefile your_script.py
 ```
-
----
-
-## 📦 Result
-
-After following the steps, you’ll have a **standalone executable application** that works on any Windows computer — no Python installation needed!
