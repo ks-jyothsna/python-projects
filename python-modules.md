@@ -8,7 +8,7 @@ This file contains Python modules and libraries I’ve used or learned in my pro
 
 | Module | Description | Example Usage |
 |--------|-------------|---------------|
-| `os` | Operating system interactions (files, directories) | `os.listdir('.')` |
+| `os` | Operating system interactions (files, directories) | `os.listdir('.')`, `os.system('cls')`  |
 | `sys` | System-specific parameters and functions | `sys.version` |
 | `math` | Mathematical functions | `math.sqrt(16)` |
 | `datetime` | Date and time manipulation | `datetime.datetime.now()` |
