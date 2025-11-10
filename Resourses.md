@@ -9,7 +9,3 @@
 
 ## 🛠️ Tools
 - Thonny - application for learning the step-by-step execution of the code
-
-
-## Python commands
-- python -m auto_py_to_exe  # Launches the GUI to convert .py to .exe
