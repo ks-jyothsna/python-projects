@@ -1,6 +1,6 @@
 # 웃 Hangman
 
->> Players try to guess the hidden word, one letter at a time, before running out of chances!
+> Players try to guess the hidden word, one letter at a time, before running out of chances!
 
 ---
 
