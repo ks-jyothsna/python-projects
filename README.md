@@ -12,3 +12,5 @@ Welcome to my Python learning journey! This repository contains hands-on project
 | 08 | Caeser Cipher | Functions with inputs, Arguments and Parameters|
 | 09 | Secret Auction | Dictionaries, Nesting|
 | 10 | Calculator | Functions with Ouputs|
+| 11 | BlackJack | Revision , Capstone project|
+| 12 | Nuumber guessing project | Scope, local and global|
