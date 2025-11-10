@@ -1,6 +1,6 @@
 # 🧮 Python Calculator
 
->> A simple Python console program that performs basic arithmetic operations interactively. The program allows users to continue calculations using previous results, providing a smooth and user-friendly experience.
+> A simple Python console program that performs basic arithmetic operations interactively. The program allows users to continue calculations using previous results, providing a smooth and user-friendly experience.
 
 ## 🧩 Features/Logic
 
