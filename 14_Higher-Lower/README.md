@@ -41,3 +41,4 @@ You’ll keep playing until your guess is wrong. Your score increases with every
 - os.sytem('cls') - a nice way to clear the screen for each round.
 - random.choice - to select a random account from the data file
 - art.py - logo created using [ASCII art](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type+Something+&x=none&v=4&h=4&w=80&we=false)
+- game_data.py - the list of accounts represented as a dictionary.
