@@ -14,4 +14,5 @@ Welcome to my Python learning journey! This repository contains hands-on project
 | 10 | Calculator | Functions with Ouputs|
 | 11 | BlackJack | Revision , Capstone project|
 | 12 | Guess the number | Scope, local and global scope, global constants|
-| 13 |  | Debugging|
+| 13 | No project | Debugging, Python debugger|
+| 14 | Coffee Machine | Revision|
