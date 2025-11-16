@@ -24,5 +24,3 @@
 > 2. Search for the required package to be installed.
 > 3. Click on install
 
-## Useful Pypi External libraries
-1.  [Prettytable](https://pypi.org/project/prettytable/): PrettyTable lets you print tables in an attractive ASCII form
