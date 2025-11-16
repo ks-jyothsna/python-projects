@@ -18,11 +18,11 @@
 - [Turtle graphics](https://docs.python.org/3/library/turtle.html)
 - [Turtle colors](https://cs111.wellesley.edu/reference/colors)
 
-## Pypi 
+## External libraries - Pypi
 > To install, 
 > 1. view | Tool Windows | Python Packages.
 > 2. Search for the required package to be installed.
 > 3. Click on install
 
-## Useful Pypi
+## Useful Pypi External libraries
 1.  [Prettytable](https://pypi.org/project/prettytable/): PrettyTable lets you print tables in an attractive ASCII form
