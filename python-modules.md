@@ -11,9 +11,11 @@ This file contains Python modules and libraries I’ve used or learned in my pro
 |--------|-------------|---------------|
 | `random` | Random numbers and selections | `random.randint(1, 10)` |
 | `os` | Operating system interactions (files, directories) | `os.listdir('.')`, `os.system('cls')`  |
+| `sys` | System-specific parameters and functions | `sys.version` |
 | `math` | Mathematical functions | `math.sqrt(16)` |
 | `sys` | System-specific parameters and functions | `sys.version` |
 | `datetime` | Date and time manipulation | `datetime.datetime.now()` |
+| `random` | Random numbers and selections | `random.randint(1, 10)` |
 | `time` | Time-related functions | `time.sleep(2)` |
 | `argparse` | Command-line argument parsing | `parser = argparse.ArgumentParser()` |
 | `logging` | Logging messages | `logging.info('message')` |
@@ -22,55 +24,55 @@ This file contains Python modules and libraries I’ve used or learned in my pro
 
 ## 📦 2. Data Handling & Analysis
 
-| Module | Description | Example Usage |
-|--------|-------------|---------------|
-| `pandas` | Dataframes for structured data | `pd.read_csv('file.csv')` |
-| `numpy` | Numerical operations, arrays | `np.array([1,2,3])` |
-| `csv` | Read/write CSV files | `csv.reader(file)` |
-| `json` | JSON parsing | `json.loads(data)` |
-| `prettytable` | Print tables | `` |
+| Module | Description | Example Usage | Accessibility |
+|--------|-------------|---------------|---------------|
+| `pandas` | Dataframes for structured data | `pd.read_csv('file.csv')` | third-party library |
+| `numpy` | Numerical operations, arrays | `np.array([1,2,3])` | third-party library |
+| `csv` | Read/write CSV files | `csv.reader(file)` | standard library |
+| `json` | JSON parsing | `json.loads(data)` | standard library |
+| `prettytable` | Print tables |  | third-party library |
 
----
+--- 
 
 ## 📦 3. Web & API
 
-| Module | Description | Example Usage |
-|--------|-------------|---------------|
-| `requests` | HTTP requests for APIs | `requests.get(url)` |
-| `BeautifulSoup` | Web scraping | `soup = BeautifulSoup(html, 'html.parser')` |
-| `selenium` | Browser automation | `driver = webdriver.Chrome()` |
+| Module | Description | Example Usage | Accessibility |
+|--------|-------------|---------------|---------------|
+| `requests` | HTTP requests for APIs | `requests.get(url)` | third-party library |
+| `BeautifulSoup` | Web scraping | `soup = BeautifulSoup(html, 'html.parser')` | third-party library |
+| `selenium` | Browser automation | `driver = webdriver.Chrome()` | third-party library |
 
 ---
 
 ## 📦 4. Automation & Testing
 
-| Module | Description | Example Usage |
-|--------|-------------|---------------|
-| `pytest` | Python testing framework | `pytest test_file.py` |
-| `unittest` | Unit testing | `unittest.TestCase` |
-| `selenium` | Web automation | `driver.get('https://example.com')` |
+| Module | Description | Example Usage | Accessibility |
+|--------|-------------|---------------|---------------|
+| `pytest` | Python testing framework | `pytest test_file.py` | third-party library |
+| `unittest` | Unit testing | `unittest.TestCase` | standard library |
+| `selenium` | Web automation | `driver.get('https://example.com')` | third-party library |
 
 ---
 
 ## 📦 5. Data Visualization
 
-| Module | Description | Example Usage |
-|--------|-------------|---------------|
-| `matplotlib` | 2D plotting | `plt.plot(x, y)` |
-| `seaborn` | Statistical visualizations | `sns.barplot(x, y)` |
-| `plotly` | Interactive plots | `px.scatter(df, x='a', y='b')` |
+| Module | Description | Example Usage | Accessibility |
+|--------|-------------|---------------|---------------|
+| `matplotlib` | 2D plotting | `plt.plot(x, y)` | third-party library |
+| `seaborn` | Statistical visualizations | `sns.barplot(x, y)` | third-party library |
+| `plotly` | Interactive plots | `px.scatter(df, x='a', y='b')` | third-party library |
 
 ---
 
 ## 📦 6. Other libraries
 
-| Module | Description | Accessibility |
-|--------|-------------|---------------|
-| `tkinter` | GUI applications | standard library |
-| `turtle` | creating graphics, used for educational purpose | standard library |
-| `openpyxl` | Excel read/write | third-party library |
-| `pathlib` | File paths | standard library |
-| `re` | Regular expressions | standard library |
+| Module | Description | Example Usage | Accessibility |
+|--------|-------------|---------------|---------------|
+| `tkinter` | GUI applications | `root = Tk()` | standard library |
+| `turtle` | Creating graphics, used for educational purpose | `timmy = Turtle()` | standard library |
+| `openpyxl` | Excel read/write | `openpyxl.load_workbook('file.xlsx')` | third-party library |
+| `pathlib` | File paths | `Path('file.txt').exists()` | standard library |
+| `re` | Regular expressions | `re.search(pattern, string)` | standard library |
 
 ---
 
@@ -78,4 +80,3 @@ This file contains Python modules and libraries I’ve used or learned in my pro
 - Keep updating as you learn new modules in projects.  
 - Add short examples to remember usage quickly.  
 - This file serves as a **personal cheat sheet** and can be referred to during coding or interviews.
-
