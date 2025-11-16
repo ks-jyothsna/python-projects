@@ -4,7 +4,7 @@
 - [Stack Overflow](https://stackoverflow.com) - Q&A for programming issues
 - [Python Docs](https://docs.python.org/3/) - Official Python documentation
 - [GeeksforGeeks](https://www.geeksforgeeks.org/) - Tutorials & coding practice
-- [PyPI](https://pypi.org/)
+- [PyPI](https://pypi.org/) - Python Package Index, is the official third-party software repository for Python, allowing developers to find and install packages that are not part of the standard Python library
 
 
 
