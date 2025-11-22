@@ -3,7 +3,7 @@
 Users can order drinks (espresso, latte, cappuccino), insert coins, and receive their beverage if sufficient resources and payment are available. The machine can also generate a report of its current resources and be turned off by maintainers.
 
 This project behaves same as day 15, but this is coded differently, using OOP.
-The goal of this project was to write the main.py using the **classes already defined by my teacher in the external library coffee_maker, menu, money_machine files**.
+The goal of this project was to write the main.py using the **classes already defined by my teacher in the modules coffee_maker, menu, money_machine files**.
 
 ---
 
@@ -22,6 +22,15 @@ The goal of this project was to write the main.py using the **classes already de
 - Make coffee
 - Repeat until off is entered
   
+---
+
+## Additional files
+
+The dependency files to run the main.py is to include the modules where the classes are defined.
+- coffee_maker.py
+- menu.py
+- money_machine.py
+
 ---
 
 ## Reference
