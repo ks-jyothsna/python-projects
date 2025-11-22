@@ -17,5 +17,7 @@ Welcome to my Python learning journey! This repository contains hands-on project
 | 13 | No project | Debugging, Python debugger|
 | 14 | Higher Lower | Revision|
 | 15 | Coffee Machine | Revision|
-| 16 | Coffee Machine - OOP version | Class, Object, Method, Attributes|
+| 16 | Coffee Machine - OOP version | Introduction to concepts : Class, Object, Method, Attributes|
+| 17 | True False Quiz | Creating Classes|
+
 
