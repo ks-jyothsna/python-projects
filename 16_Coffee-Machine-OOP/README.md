@@ -34,5 +34,5 @@ The dependency files to run the main.py is to include the modules where the clas
 ---
 
 ## Reference
-Refer to the Coffee+Machine+Program+Requirements document for detailed description.
-Refer to the Coffee+Machine+Classes+Documentation document for the classes description.
+- Refer to the Coffee+Machine+Program+Requirements document for detailed description.
+- Refer to the Coffee+Machine+Classes+Documentation document for the modules and corresponding classes description.
