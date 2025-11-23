@@ -9,7 +9,7 @@
 ## 🎮 Game Overview
 
 This game presents a series of True or False questions to the player through the console.
-For each question, the player must type "true" or "false" (case-insensitive).
+For each question, the player must type "True" or "False".
 
 After every answer, the game:
 - Checks if the player's response is correct
@@ -20,6 +20,7 @@ After every answer, the game:
 ---
 
 ## 🧩 Features
+
 - Fully object-oriented design
 - Access to change the questions
 - Quiz logic separated into multiple classes
@@ -30,6 +31,7 @@ After every answer, the game:
 ---
 
 ## 📂 Project Structure
+
 project
 - main.py
 - question_model.py
