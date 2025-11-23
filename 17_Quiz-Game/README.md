@@ -1,8 +1,8 @@
 # ✔️✖️ Quiz Game - True or False
 
 > This project is a beginner-friendly yet well-structured True/False Quiz Game that runs entirely in the console.
-> The game demonstrates how Object-Oriented Programming (OOP) concepts can be applied to build a clean, modular, and easy-to-extend application.
-> This project demonstrates how to structure a small application using classes, methods, and clean code practices.
+The game demonstrates how Object-Oriented Programming (OOP) concepts can be applied to build a clean, modular, and easy-to-extend application.
+This project demonstrates how to structure a small application using classes, methods, and clean code practices.
 
 ---
 
@@ -21,7 +21,7 @@ After every answer, the game:
 
 ## 🧩 Features
 
-- Fully object-oriented design
+- Fully object-oriented design 
 - Access to change the questions
 - Quiz logic separated into multiple classes
 - Real-time feedback after each question
@@ -38,13 +38,13 @@ project
 - quiz_brain.py
 - data.py
 
-question_model.py
-> Contains the Question class which stores:
+question_model.py:   
+Contains the Question class which stores:
 - The question text
 - The correct answer
 
-quiz_brain.py
-> Contains the QuizBrain class which
+quiz_brain.py:    
+Contains the QuizBrain class which
 - Tracks the current question number
 - Asks questions on the console
 - Checks user answers
@@ -59,8 +59,16 @@ main.py
 - Runs the quiz loop
 
 ---
+## ✨ Advantage of using OOP
+
+Using OOP makes the quiz highly modular because each part of the game is separated into its own class with a single responsibility.  
+If the questions change—whether you load them from a file, an API, or manually—only the data source needs to be updated.    
+The rest of the system (question model, quiz logic, scoring) remains untouched. This separation ensures easier maintenance, cleaner code, and the ability to extend the game without modifying existing files.
+
+---
 
 ## How to change the questions list
+
 This game can use custom questions, locally stored questions. The quiz questions can be loaded manually from the Open Trivia Database (OpenTDB).
 - OpenTrivia DB provides free, high-quality trivia questions. You can use its API to fetch True/False questions dynamically.
 - Steps to create data file using Trivia Database
