@@ -19,5 +19,6 @@ Welcome to my Python learning journey! This repository contains hands-on project
 | 15 | Coffee Machine | Revision|
 | 16 | Coffee Machine - OOP version | Introduction to concepts : Class, Object, Method, Attributes|
 | 17 | True False Quiz | Creating Classes|
+| 18 | Turtle mini challenges + Hirst painting project | Turtle Graphics, Python Tuples, Importing modules|
 
 
