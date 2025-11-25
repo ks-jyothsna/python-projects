@@ -16,7 +16,8 @@
 
 ## Turtle - a Tkinter based turtle graphics module for Python
 - [Turtle graphics documentation](https://docs.python.org/3/library/turtle.html)
-- [Turtle colors](https://cs111.wellesley.edu/reference/colors)
+- [Tkinter colors in R G B format](https://www.tcl-lang.org/man/tcl8.4/TkCmd/colors.htm) : symbolic color names recognized by Tk
+- [Turtle colors](https://cs111.wellesley.edu/reference/colors) : Easy way to use, as it shows the color and the name in one screen.
 
 ## External libraries - Pypi
 > To install, 
