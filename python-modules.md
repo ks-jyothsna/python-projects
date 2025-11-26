@@ -70,6 +70,7 @@ This file contains Python modules and libraries I’ve used or learned in my pro
 |--------|-------------|---------------|---------------|
 | `tkinter` | GUI applications | `root = Tk()` | standard library |
 | `turtle` | Creating graphics, used for educational purpose | `timmy = Turtle()` | standard library |
+| `colorgram` |  Extract colors from images | `colors = colorgram.extract('image.jpg', 10)` | third-party library |
 | `openpyxl` | Excel read/write | `openpyxl.load_workbook('file.xlsx')` | third-party library |
 | `pathlib` | File paths | `Path('file.txt').exists()` | standard library |
 | `re` | Regular expressions | `re.search(pattern, string)` | standard library |
