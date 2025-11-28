@@ -76,4 +76,4 @@ Note: There are two example images used to extract the color palette, refer to e
 ## 📦 External Library Used
 
 [colorgrag.py](https://pypi.org/project/colorgram.py/) : Used to extract colors from an inspiration image.
-- Refer the main README.md file to know more on how to insatll the external library package to the environment.
+- Refer the main Resourses.md file to know more on how to insatll the external library package to the environment.
