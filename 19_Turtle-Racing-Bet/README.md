@@ -62,9 +62,10 @@ A fun racing mini-game where the user **bets on which turtle will win**, and the
 - Real-time result announcement  
 
 ### **Concepts Used**
-- Created multiple turtle objects from the class.
+- Screen is setup "screen.setup": width = 500, height = 400
+- Taking user input on which turtle will win using "screen.textinput"
+- Created multiple turtle objects from the class using "for" loop on the list of colors.
 - Each object is independent of others and in different state
-- Loops + randomness  
-- Taking user input 
+- Loops + randomness from random module  
 - Movement updates  
-- Detecting finish line  
+- Detecting finish line : turtle is 40X40 in dimension; and x-axis is 250 from the center , the end mark of the screen is calculated as 250 - (40/2) = 230
