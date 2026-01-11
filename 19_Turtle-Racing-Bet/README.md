@@ -62,8 +62,9 @@ A fun racing mini-game where the user **bets on which turtle will win**, and the
 - Real-time result announcement  
 
 ### **Concepts Used**
-- Turtle shapes and colors  
+- Created multiple turtle objects from the class.
+- Each object is independent of others and in different state
 - Loops + randomness  
-- Taking user input  
+- Taking user input 
 - Movement updates  
 - Detecting finish line  
