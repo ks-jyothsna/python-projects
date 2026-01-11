@@ -17,9 +17,7 @@ It’s commonly used for:
 
 ---
 
-# 🎨 Etch-A-Sketch  
-🟥⚪⚪  
-
+# 🎨 Etch-A-Sketch   
 The **Etch-A-Sketch** is a digital version of the classic drawing toy.  
 Use keyboard keys to move the turtle and draw freely on the screen.
 
