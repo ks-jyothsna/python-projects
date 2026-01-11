@@ -31,10 +31,10 @@ Use keyboard keys to move the turtle and draw freely on the screen.
 - Great for practicing event listeners (`onkey`)  
 
 ### **Suggested Controls**
-- `w` — Move Up  
-- `s` — Move Down  
-- `a` — Move Left  
-- `d` — Move Right  
+- `w` — Move Forward
+- `s` — Move Backward  
+- `a` — Move Counter-Clockwise  
+- `d` — Move Clockwise  
 - `c` — Clear Screen  
 
 ### **Concepts Used**
