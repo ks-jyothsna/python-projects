@@ -1,0 +1,10 @@
+Steps to solve the problem:
+1. Create a snake body - 3 segments in sq, square size is 20X20
+2. Move the snake - Continuously move snake forward automatically
+3. Control the snake - Up, Down, Left, Right, and not allow back and forth movement
+4. Detect collision with food - hit a piece of food, blue circle 10 X 10, everytime it touches the food,
+   distance between snake head and food is less than 15 pixels, the food should move to a random location on the screen
+5. Create a scoreboard - using a method called write.
+6. Detect collision with wall - considering the boundary as 560 X 560 as the screen is 600 X 600
+7. Detect collision with tail - increasing the snake body when it eats food,
+    and end game when it collides with its own tail
