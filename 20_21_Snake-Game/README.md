@@ -1,6 +1,6 @@
 # 🐍 Snake Game
 
-A basic Snake Game built using **Python**, designed to understand game loops, collision detection, and object movement.  
+A basic Snake Game built using **turtle** graphics module, designed to understand game loops, collision detection, and object movement.  
 This project is beginner-friendly and helps in learning fundamental game development concepts.
 
 ---
@@ -65,9 +65,22 @@ This project is beginner-friendly and helps in learning fundamental game develop
 - If the snake head collides with its own body:
   - Game ends
 
+---
+
+## Files to be considered
+- main.py
+- snake.py
+- food.py
+- scoreboard.py
+ Note: class_inhertitance.py explains the concept of class inhertance that is used in Food and Scoreboard class.
+
+---
+
 ## 🚀 Future Enhancements
 
 - Add levels or increasing speed
 - Add sound effects
 - Restart button after Game Over
 - High score tracking
+
+
