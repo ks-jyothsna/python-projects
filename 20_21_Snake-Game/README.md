@@ -71,8 +71,8 @@ This project is beginner-friendly and helps in learning fundamental game develop
 - main.py
 - snake.py
 - food.py
-- scoreboard.py
- Note: class_inhertitance.py explains the concept of class inhertance that is used in Food and Scoreboard class.
+- scoreboard.py     
+Note: class_inhertitance.py explains the concept of class inhertance that is used in Food and Scoreboard class.
 
 ---
 
