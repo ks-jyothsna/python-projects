@@ -65,3 +65,9 @@ This project is beginner-friendly and helps in learning fundamental game develop
 - If the snake head collides with its own body:
   - Game ends
 
+## 🚀 Future Enhancements
+
+- Add levels or increasing speed
+- Add sound effects
+- Restart button after Game Over
+- High score tracking
