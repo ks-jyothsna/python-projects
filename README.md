@@ -21,5 +21,7 @@ Welcome to my Python learning journey! This repository contains hands-on project
 | 17 | True False Quiz | Creating Classes|
 | 18 | Turtle mini challenges + Hirst painting project | Turtle Graphics, Python Tuples, Importing modules|
 | 19 | Etch-a-Sketch + Turtle racing bet | More Turtle Graphics, Event listeners, State and Multiple instances|
+| 20 | Snake Game - part 1 | More turtle concepts like tracer, key strokes listen|
+| 21 | Snake Game - part 2 | Class inherirtance, slicing|
 
 
