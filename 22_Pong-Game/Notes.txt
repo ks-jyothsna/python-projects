@@ -1,0 +1,15 @@
+Steps to solve the problem:
+1. Setup screen :- Black background, width x height = 800 x 600
+2. Create and move a paddle: create a paddle on the right side of the screen with width 20, height of 100,
+    x_pos = 350, y_pos = 0, movement of UP and DOWN with key and move by 20 pixels
+3. Create another paddle: write the paddle class and create second paddle, "w" for Up and "s" for down.
+4. Create the ball and make it move
+5. Detect collision with up and bottom wall and bounce :
+    when y cor of the ball is 280 or -280 (taking into attribute of ball thickness of 20 pixels
+    and canvas height (y-axis) of 600 pixels / 2 = 300
+6. Detect collision with paddle: use distance method.
+7. Detect when paddle misses
+8. Score keeping and changing the ball speed
+    To increase the ball speed, we can decrease the time.sleep() by a factor;
+    lesser the number, greater the speed.
+    hence by multiplying by 0.9 we are reducing the number but also not going to negative value
